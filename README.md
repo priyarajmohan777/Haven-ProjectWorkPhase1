@@ -29,28 +29,25 @@ This project leverages a **Random Forest Classifier** to analyze user lifestyle 
 * **Browser:** Google Chrome, Microsoft Edge, or Firefox.
 
 ## System Architecture
-![System Architecture](https://github.com/YourUsername/Haven-Mental-Health/assets/placeholder-image/architecture-diagram.png)
-*(Note: Upload the Architecture Diagram from your report here)*
+<img width="754" height="639" alt="architecture" src="https://github.com/user-attachments/assets/c7537dd5-1e0d-4a76-a804-2bf5eb5730b0" />
 
 ## Output
 
 #### Output 1 - Stress Prediction Interface
 Users input their biometric data, and the model predicts the stress level.
-
-![Stress Prediction](https://github.com/YourUsername/Haven-Mental-Health/assets/placeholder-image/prediction-page.png)
+<img width="1919" height="1016" alt="Screenshot 2025-11-28 144929" src="https://github.com/user-attachments/assets/37925493-4d07-44b5-8edb-41f78bbb6347" />
 
 #### Output 2 - AI Chatbot Support
 The chatbot provides immediate support based on the prediction context.
+<img width="821" height="435" alt="image" src="https://github.com/user-attachments/assets/29fd8b0e-d544-4c21-afda-d70da7b1da51" />
 
-![Chatbot Interface](https://github.com/YourUsername/Haven-Mental-Health/assets/placeholder-image/chatbot-interface.png)
 
 #### Output 3 - Data Visualization
 Visualizing stress trends across different occupations.
+<img width="1918" height="998" alt="Screenshot 2025-11-28 144322" src="https://github.com/user-attachments/assets/dfbe7237-9a64-4fe5-b675-7696ecd77a3b" />
 
-![Visualization Dashboard](https://github.com/YourUsername/Haven-Mental-Health/assets/placeholder-image/visualization.png)
 
-**Model Accuracy:** 97% (Random Forest Classifier)
-*Note: Metrics based on the Sleep Health and Lifestyle dataset evaluation.*
+**Model Accuracy:** 91% (Random Forest Classifier)
 
 ## Results and Impact
 The **Haven** platform successfully demonstrates that integrating objective health data with subjective conversational support creates a more cohesive user experience. 
